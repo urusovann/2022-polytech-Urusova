@@ -4,3 +4,4 @@ MIT License is a short and simple permissive license with conditions only requir
 || Worst-case   | $O(n^2)$      | $O(n^2)$       ||  
 || Best-case    | $O(n\log{n})$ | $O(n^2)$       ||  
 || Average-case | $O(n\log{n})$ | $O(n^2)$       ||  
+Пусть всё в Вашей жизни будет хорошо с Божьего благословения. Пусть присутствуют в ней свет и добро. Счастья Вам, веры и любви! С днем рождения!
